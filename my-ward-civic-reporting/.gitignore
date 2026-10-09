@@ -1,0 +1,14 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+myward.db
+.env
+.vscode/
+uploads/*
+!uploads/.gitkeep
+
+models/*.pt
+runs/
+datasets/
